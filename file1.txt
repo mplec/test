@@ -2,3 +2,5 @@ Adding a line in feature.
 
 adding a line in master.
 
+adding a third line to file1.txt in master.
+
